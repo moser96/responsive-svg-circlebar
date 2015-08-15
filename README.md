@@ -26,3 +26,7 @@ The only step which is missing right now is to include the SVG source to the pos
 	</svg>
 at the right place. 
 To customize your value you just have to insert your number instead of the <-progress value-> in the code. The value must be in the following **interval: [0; 100]**
+
+## Contribution
+With you want to contibute to this code feel free to send me a pull request.
+If you have an idea for improvements, feel free to create an issue or contact me :wink:
